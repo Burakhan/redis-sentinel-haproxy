@@ -1,0 +1,3 @@
+scp root@167.99.207.162:/etc/redis/redis.conf /Users/Burakhan/www/redis-sentinel-haproxy/redis.conf
+
+scp root@167.99.207.162:/etc/redis/sentinel.conf /Users/Burakhan/www/redis-sentinel-haproxy/sentinel.conf
